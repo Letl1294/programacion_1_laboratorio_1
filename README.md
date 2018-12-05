@@ -1,4 +1,4 @@
-#Material educativo Programación I y Laboratorio I
+Material educativo Programación I y Laboratorio I
 
 Tecnicaturas en programación. UTN-FRA
 
